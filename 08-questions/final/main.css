@@ -299,6 +299,10 @@ Questions
 }
 .question-btn:hover {
   transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
 }
 .question-text {
   padding-top: 1rem;
